@@ -29,7 +29,8 @@ R	ROT13 translation of string
 S	String with special chars replaced by their ASCII value
 %	Character
 
-File Functions
+
+*File Functions*
 
 _printf.c
 Own Printf Function That Performs Formatted Output Conversion And Print Data.
